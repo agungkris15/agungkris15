@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @agungkris15
-- 👀 I’m interested in Front End Web Developtment
+- 👀 I’m interested in QA Engineer and Front End Web Developtment 
 - 🌱 I’m currently learning React jS
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me 
